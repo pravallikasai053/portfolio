@@ -1,0 +1,18 @@
+div{
+    display: none;
+    display: inline;
+}
+  
+div{
+    background-color: orangered;
+    text-align: center;
+    padding: 2%;
+}
+a{
+    display: block;
+    text-decoration: none;
+    color: aqua;
+}
+a:hover{
+    background-color: greenyellow;
+}
